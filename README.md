@@ -1,7 +1,7 @@
 <pre> 
 <strong>Hi, I am Haixin Wang!👋 </strong>
 
-<strong>A PhD student at UCLA. Go Bruins! </strong>
+<strong>A PhD student at UCLA. Go Bruins!🐻 </strong>
 </pre> 
 
 ### ⭐️ &nbsp;Github Star
