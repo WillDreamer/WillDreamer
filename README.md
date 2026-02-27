@@ -9,6 +9,11 @@
 <img width="200px"  alt="GitHub Stats" src="https://img.shields.io/github/stars/WillDreamer?style=for-the-badge"/>
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WillDreamer&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=WillDreamer" />
+
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+</p>
 
 ---
