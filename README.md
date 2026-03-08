@@ -1,19 +1,30 @@
-<pre> 
-<strong>Hi, I am Haixin Wang!👋 </strong>
+<h1 align="center">Hi, I'm Haixin Wang 👋</h1>
 
-<strong>A PhD student at UCLA. Go Bruins!🐻 </strong>
-</pre> 
+---
 
-### ⭐️ &nbsp;Github Star
+### 🚀 About Me
 
-<img width="200px"  alt="GitHub Stats" src="https://img.shields.io/github/stars/WillDreamer?style=for-the-badge"/>
+- 🎓 PhD student at **UCLA**, now has
+- 🤖 Researching **Agentic RL / Multi-agent Systems**
 
-### 🛳 &nbsp;Your ticket ID for this visit
-<img width="120px" src="https://visitor-badge.laobi.icu/badge?page_id=WillDreamer" />
+---
 
-<!-- GitHub Contribution Snake -->
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+<img src="https://img.shields.io/github/stars/WillDreamer?style=social" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=WillDreamer" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=WillDreamer&hide_border=true" />
 </p>
 
 ---
+
+### ⭐ GitHub Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
