@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🎓 PhD student at **UCLA**, now has
+- 🎓 PhD student at **UCLA**, Go Bruins! 🐻
 - 🤖 Researching **Agentic RL / Multi-agent Systems**
 
 ---
