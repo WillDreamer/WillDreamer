@@ -10,7 +10,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
 <img src="https://img.shields.io/github/stars/WillDreamer?style=social" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=WillDreamer" />
@@ -23,7 +22,6 @@
 ---
 
 ### ⭐ GitHub Activity
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
