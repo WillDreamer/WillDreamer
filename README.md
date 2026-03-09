@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Haixin Wang 👋</h1>
 
----
-
 ### 🚀 About Me
 
 - 🎓 PhD student at **UCLA**, Go Bruins! 🐻
