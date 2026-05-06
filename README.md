@@ -21,11 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillDreamer&theme=github" height="180" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WillDreamer&theme=github" height="180" alt="Most Commit Language" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WillDreamer&theme=github" height="180" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WillDreamer&theme=github&utcOffset=-8" height="180" alt="Productive Time" />
 </p>
